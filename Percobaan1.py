@@ -13,7 +13,7 @@ draw = ImageDraw.Draw(gambarBW)
 font_path = "C:/Users/fasha/Desktop/Modul6/Arial-font/New folder (6)/ArialTh.ttf"
 font_size = 24
 font = ImageFont.truetype(font_path, font_size)
-text = "Nama: Andi Izra Islamay \nNIM: 202110370311497"
+text = "Nama: Prabu Shakti \nNIM: 202110370311491"
 # Dapatkan bounding box dari teks
 text_bbox = draw.textbbox((0, 0), text, font=font)
 # Hitung posisi tengah untuk teks
